@@ -7,3 +7,5 @@ text 7 on master
 
 text 6 on branch_1
 text 8 on branch_1
+
+text 9 on b2
