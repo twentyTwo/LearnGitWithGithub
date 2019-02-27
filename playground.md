@@ -5,3 +5,5 @@ text 4 on branch_1
 text 5 on master
 text 7 on master
 
+text 6 on branch_1
+text 8 on branch_1
